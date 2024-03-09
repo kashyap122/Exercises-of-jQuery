@@ -1,0 +1,15 @@
+#container{
+    height: 170px;
+    width : 250px;
+    position: relative;
+    border: 2px solid black;
+    
+}
+
+#buttons{
+    margin-top :10px;
+    margin-bottom :10px;
+    border: 2px solid black;
+    /* position: absolute; */
+    
+}
